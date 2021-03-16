@@ -7,7 +7,7 @@ export const goToSignUp = (history) => {
 }
 
 export const goToMusicList = (history) => {
-    history.pushState('/login')
+    history.pushState('/')
 }
 
 export const goToAddMusic = (history) => {
