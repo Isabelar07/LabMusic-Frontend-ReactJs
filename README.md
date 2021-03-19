@@ -1,1 +1,1 @@
-# LabMusic-Frontend-ReactJs
+# LabMusic - em desenvolvimento
